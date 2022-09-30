@@ -1,3 +1,5 @@
+print("Runing")
+
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 then
